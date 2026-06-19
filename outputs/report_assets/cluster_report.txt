@@ -1,0 +1,20 @@
+====================================
+CLUSTERING REPORT
+====================================
+
+Number of Clusters: 3
+
+Cluster Sizes:
+  Cluster Count
+1       1   164
+2       2   179
+3       3   157
+
+
+Cluster Summary:
+# A tibble: 3 × 9
+  cluster avg_screen_time avg_social_media avg_sleep avg_notifications avg_focus avg_anxiety avg_wellbeing     n
+  <fct>             <dbl>            <dbl>     <dbl>             <dbl>     <dbl>       <dbl>         <dbl> <int>
+1 1                  325.            156.       7.06              82.4      7.13        9.42          51.4   164
+2 2                  360.             87.2      6.9               69.3      7.11        6.85          58.6   179
+3 3                  399.            126.       5.65              88.2      6.73        9.27          46.1   157

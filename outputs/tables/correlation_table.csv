@@ -1,0 +1,10 @@
+"Variable","Correlation_With_Wellbeing"
+"daily_screen_time_min",-0.088
+"num_app_switches",-0.081
+"sleep_hours",0.44
+"notification_count",-0.38
+"social_media_time_min",-0.263
+"focus_score",0.411
+"mood_score",0.127
+"anxiety_level",-0.836
+"digital_wellbeing_score",1

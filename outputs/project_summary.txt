@@ -1,0 +1,23 @@
+=========================================
+DIGITAL BEHAVIOUR ARCHETYPES PROJECT
+=========================================
+
+Project Workflow
+
+1. Data Cleaning
+2. Exploratory Data Analysis
+3. Feature Engineering
+4. Feature Scaling
+5. Cluster Selection
+6. K-Means Clustering
+7. PCA Visualization
+8. Decision Tree Classification
+9. Random Forest Classification
+10. Model Evaluation
+
+Final Results
+
+Number of Archetypes: 3
+Best Classification Model: Random Forest
+Random Forest Accuracy: 0.9388
+Decision Tree Accuracy: 0.8776

@@ -1,0 +1,33 @@
+====================================
+DATA QUALITY REPORT
+====================================
+
+Rows: 500 
+Columns: 9 
+
+Duplicate Rows: 0 
+
+Missing Values:
+                                       Variable Missing_Count Missing_Percentage
+daily_screen_time_min     daily_screen_time_min             0                  0
+num_app_switches               num_app_switches             0                  0
+sleep_hours                         sleep_hours             0                  0
+notification_count           notification_count             0                  0
+social_media_time_min     social_media_time_min             0                  0
+focus_score                         focus_score             0                  0
+mood_score                           mood_score             0                  0
+anxiety_level                     anxiety_level             0                  0
+digital_wellbeing_score digital_wellbeing_score             0                  0
+
+
+Summary Statistics:
+                                       Variable   Mean    SD   Min Median   Max
+daily_screen_time_min     daily_screen_time_min 360.44 58.78 180.0 360.80 591.2
+num_app_switches               num_app_switches  49.84  7.34  30.0  50.00  72.0
+sleep_hours                         sleep_hours   6.56  1.19   3.0   6.50  10.0
+notification_count           notification_count  79.51 23.98  20.0  80.00 158.0
+social_media_time_min     social_media_time_min 121.77 43.81  30.0 119.55 296.7
+focus_score                         focus_score   7.00  0.62   5.5   7.00   8.6
+mood_score                           mood_score   8.99  0.52   7.4   9.00  10.0
+anxiety_level                     anxiety_level   8.45  2.13   1.0   9.70  10.0
+digital_wellbeing_score digital_wellbeing_score  52.31  7.94  34.6  51.00  80.8

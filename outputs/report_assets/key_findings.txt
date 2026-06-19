@@ -1,0 +1,20 @@
+=========================================
+KEY FINDINGS
+=========================================
+
+1. Three Digital Behaviour Archetypes were discovered using K-Means clustering.
+
+2. The optimal number of clusters was selected using both the Elbow Method and Silhouette Analysis.
+
+3. PCA visualization confirmed that the three clusters are reasonably well separated.
+
+4. Random Forest achieved the highest predictive performance.
+
+Best Model: Random Forest
+
+5. The most influential behavioural variables were:
+1. screen_sleep_ratio
+2. social_media_share
+3. anxiety_level
+4. social_media_time_min
+5. daily_screen_time_min

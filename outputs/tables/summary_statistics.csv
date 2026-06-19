@@ -1,0 +1,10 @@
+"Variable","Mean","SD","Min","Median","Max"
+"daily_screen_time_min",360.44,58.78,180,360.8,591.2
+"num_app_switches",49.84,7.34,30,50,72
+"sleep_hours",6.56,1.19,3,6.5,10
+"notification_count",79.51,23.98,20,80,158
+"social_media_time_min",121.77,43.81,30,119.55,296.7
+"focus_score",7,0.62,5.5,7,8.6
+"mood_score",8.99,0.52,7.4,9,10
+"anxiety_level",8.45,2.13,1,9.7,10
+"digital_wellbeing_score",52.31,7.94,34.6,51,80.8
