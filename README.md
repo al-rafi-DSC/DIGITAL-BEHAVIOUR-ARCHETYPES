@@ -189,10 +189,3 @@ Run the scripts in this sequence:
 - Cluster labels are descriptive profiles, not clinical diagnoses.
 - Classification labels were created from the same behavioural feature space used as inputs. Model accuracy therefore indicates internal cluster distinguishability, not independent real-world predictive performance.
 
-## Author
-
-Sayed Al Rafi
-
-## License
-
-This project is intended for academic and educational use. Add a license file, such as MIT, before public distribution if appropriate.
